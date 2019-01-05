@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F43B96FA-DD91-4F71-BAAA-A6CF98FA8A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreProjectTemplate", "src\CoreProjectTemplate\CoreProjectTemplate.csproj", "{AFCDF7F8-7FC1-41EE-A7C2-6F9F9E25D57A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSharp.Generator", "src\OSharp.Generator\OSharp.Generator.csproj", "{F23EC44D-BB8E-4A80-857E-BCFBB6EEC4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCDF7F8-7FC1-41EE-A7C2-6F9F9E25D57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCDF7F8-7FC1-41EE-A7C2-6F9F9E25D57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCDF7F8-7FC1-41EE-A7C2-6F9F9E25D57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCDF7F8-7FC1-41EE-A7C2-6F9F9E25D57A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23EC44D-BB8E-4A80-857E-BCFBB6EEC4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23EC44D-BB8E-4A80-857E-BCFBB6EEC4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23EC44D-BB8E-4A80-857E-BCFBB6EEC4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23EC44D-BB8E-4A80-857E-BCFBB6EEC4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AFCDF7F8-7FC1-41EE-A7C2-6F9F9E25D57A} = {F43B96FA-DD91-4F71-BAAA-A6CF98FA8A21}
+		{F23EC44D-BB8E-4A80-857E-BCFBB6EEC4DA} = {F43B96FA-DD91-4F71-BAAA-A6CF98FA8A21}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1CFE29-CDF9-4A03-BBE0-6E1E83444F91}
+	EndGlobalSection
+EndGlobal
