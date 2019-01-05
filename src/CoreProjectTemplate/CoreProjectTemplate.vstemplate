@@ -3,7 +3,7 @@
     <Name>OSharp核心项目模板</Name>
     <Description>OSharp核心项目模板，通常存放项目的Entity，Dto，Service等业务核心代码</Description>
     <ProjectType>CSharp</ProjectType>
-    <ProjectSubType></ProjectSubType>
+    <ProjectSubType>OSharp</ProjectSubType>
     <SortOrder>1000</SortOrder>
     <!--<TemplateID>2b93a8da-d900-4dbc-bbc6-57a0e2aa7190</TemplateID>-->
     <CreateNewFolder>true</CreateNewFolder>

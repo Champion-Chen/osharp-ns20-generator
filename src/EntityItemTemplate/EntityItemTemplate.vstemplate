@@ -1,0 +1,16 @@
+﻿<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <Name>实体类项</Name>
+    <Description>OSharp实体类项模板，创建数据存储实体类</Description>
+    <Icon>EntityItemTemplate.ico</Icon>
+    <TemplateID>78d5b012-aba1-4b52-beb3-77a5b96b8575</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>OSharp</ProjectSubType>
+    <SortOrder>10</SortOrder>
+    <DefaultName>Class.cs</DefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <References/>
+    <ProjectItem SubType="" TargetFileName="$fileinputname$.cs" ReplaceParameters="true">Class1.cs</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
