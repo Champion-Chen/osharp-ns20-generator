@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="OSharp.Generator.a44727e2-790a-43f7-9afd-3381c187fb6c" Version="1.0" Language="en-US" Publisher="LiuliuSoft" />
+        <Identity Id="OSharp.Generator.a44727e2-790a-43f7-9afd-3381c187fb6c" Version="1.0" Language="zh-CN" Publisher="LiuliuSoft" />
         <DisplayName>OSharpNS代码生成基架</DisplayName>
         <Description xml:space="preserve">OSharpFramework(.NetStandard2.0)框架分层代码生成基架，配合实体生成各层的基础代码</Description>
         <Icon>https://en.gravatar.com/userimage/140788132/0ff3b1e68fa0154337b1528c4276e276.png?size=80</Icon>

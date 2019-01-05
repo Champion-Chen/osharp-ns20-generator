@@ -5,7 +5,6 @@
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>OSharp</ProjectSubType>
     <SortOrder>1000</SortOrder>
-    <!--<TemplateID>2b93a8da-d900-4dbc-bbc6-57a0e2aa7190</TemplateID>-->
     <CreateNewFolder>true</CreateNewFolder>
     <DefaultName>ClassLibrary</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>

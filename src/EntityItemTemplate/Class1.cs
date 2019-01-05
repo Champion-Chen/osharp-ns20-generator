@@ -2,7 +2,7 @@
 
 namespace $rootnamespace$
 {
-	class $safeitemrootname$
+	public class $safeitemrootname$
 	{
 	}
 }
